@@ -1,0 +1,6 @@
+title: Wavy 256 Bytes
+author: F#READY
+demo made for Silly Venture 2k14, 256 bytes Atari 8-bit compo.
+credits: JAC! for some code optimisation. thanx! :-)
+F#READY 2015-01-16 - added 6-bytes run-address header, reduced filesize to 253 bytes.
+ 
